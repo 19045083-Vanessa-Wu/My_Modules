@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="img_description">RPlogo</string>
+    <string name="Title">Republic Polytechnic</string>
+    <string name="Subtitle">Year 3 Semester 1 \nModule List</string>
+    <string name="C322_text"><![CDATA[C322 Data Centre & Cloud Mgmt]]></string>
+    <string name="C346_text">C346 Android Programming</string>
+    <string name="C382_text">C382 IT Service Delivery</string>
+    <string name="btnBack">Back to Homepage</string>
+</resources>
