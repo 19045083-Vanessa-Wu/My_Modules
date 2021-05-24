@@ -40,8 +40,7 @@ public class ModuleDetailActivity extends AppCompatActivity {
         btnBack.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(ModuleDetailActivity.this, MainActivity.class);
-                startActivity(intent);
+                finish();
             }
         });
 
